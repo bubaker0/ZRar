@@ -1,0 +1,24 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Logs
+*.log
+
+# Database Cache
+.zrar/
+zrar_cache.db
+
+# Executables
+ZRar_Setup.exe
+
+# Test data (large generated files)
+ZRar_Stress_Testbed/
+
+# Native binaries (7-Zip - user must provide)
+bin/
